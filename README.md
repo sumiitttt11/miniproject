@@ -17,7 +17,7 @@ This project was developed during my **Data Science and Machine Learning interns
 ## 🔧 Installation & Setup
 1. Clone the repository  
 ```sh
-git clone (https://github.com/sumiitttt11/ML-Miniproject.git)
+git clone https://github.com/sumiitttt11/ML-Miniproject.git
 cd ML-Mini-Project
  ```
 2. Run jupyter notebook
