@@ -1,6 +1,6 @@
 # 📊 ML Mini Project – YBI Foundation Internship
 
-This project was developed during my **Data Science and Machine Learning internship at YBI Foundation**. It focuses on **[Project Topic]**, utilizing **ML algorithms** to analyze and make predictions based on real-world data.
+This project was developed during my **Data Science and Machine Learning internship at YBI Foundation**. It focuses on **Movie Recommendation System**, utilizing **ML algorithms** to analyze and make predictions based on real-world data.
 
 ## 🔍 Project Overview
 - **Objective:** [Briefly explain the goal, e.g., Predicting house prices, Sentiment analysis, Fraud detection, etc.]
@@ -16,10 +16,10 @@ This project was developed during my **Data Science and Machine Learning interns
  
 ## 🔧 Installation & Setup
 1. Clone the repository  
-   ```sh
-   git clone [repository-link]
-   cd ML-Mini-Project
-   ```
+```sh
+git clone [repository-link]
+cd ML-Mini-Project
+ ```
 2. Run jupyter notebook
 ```sh
 jupyter notebook
